@@ -1,32 +1,21 @@
-To help prepare content for AI Tour, please use this template repository for organizing your sessions and preparing the content for future presentors.
-1. Update this readme with the todo's listed below
-2. The src folder has been created for all development tasks when creating this session
-3. The Lab folder is in-person and async participation with content, please update this folder with instructions for participants to follow along.
-4. The Presenter Notes folder is the train the trainer section. Here add any slide decks, demo videos, and other content as needed. This page has a rough layout to provide ideas but can be edited as needed.
-5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
-
-
-# [TODO: Insert Session Title]
+# Preparing for Your Organization's AI Workloads
 
 This repo is intended as a template for Microsoft AI Tour repositories
 
 ## Session Desciption
 
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+Any new application can introduce risk to your organisation, so how do you keep AI applications controlled and compliant? This session explores governance and compliance controls for Azure AI services, including the fundamentals of Identity and cost management. Follows the Governing AI report and NIST AI Risk Management Framework.
 
-## Learning Outcomes
-TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
+![image](https://github.com/user-attachments/assets/01951241-93d2-4fe3-8672-f6f3c00a4f6d)
+
 
 ## Technology Used
-TODO: Add a list of any technology or software used.
+- Azure Compute
+- Microsoft Entra
+- Azure OpenAI
+- Azure Security Products – Microsoft Purview, Microsoft Defender for AI
 
-## Additional Resources and Continued Learning
-TODO: If you would like to link the user to further learning, please enter that here.
 
-| Resources          | Links                             | Description        |
-|:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
 
 ## Responsible AI
 Microsoft is committed to helping our customers use our AI products responsibly, sharing our learnings, and building trust-based partnerships through tools like Transparency Notes and Impact Assessments. Many of these resources can be found at https://aka.ms/RAI. Microsoft’s approach to responsible AI is grounded in our AI principles of fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
@@ -38,21 +27,16 @@ Another aspect to take into account is the overall application performance. With
 You can evaluate your AI application in your development environment using the prompt flow SDK. Given either a test dataset or a target, your generative AI application generations are quantitatively measured with built-in evaluators or custom evaluators of your choice. To get started with the prompt flow sdk to evaluate your system, you can follow the quickstart guide. Once you execute an evaluation run, you can visualize the results in Azure AI Studio. Empowering responsible AI practices | Microsoft AI Explore how Microsoft is committed to advancing AI in a way that is driven by ethical principles that put people first.
 
 ## Content Owners
-TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
-"/><br />
-        <sub><b>INSERT NAME HERE
+        <img src="https://github.com/Orin-Thomas.png" width="100px;" alt="Orin Thomas"/><br />
+        <sub><b>Orin Thomas
 </b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
+            <a href="https://github.com/Orin-Thomas" title="talk">📢</a> 
     </td>
 </tr></table>
 
