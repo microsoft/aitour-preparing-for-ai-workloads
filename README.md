@@ -1,7 +1,5 @@
 # Preparing for Your Organization's AI Workloads
 
-This repo is intended as a template for Microsoft AI Tour repositories
-
 ## Session Desciption
 
 Any new application can introduce risk to your organisation, so how do you keep AI applications controlled and compliant? This session explores governance and compliance controls for Azure AI services, including the fundamentals of Identity and cost management. Follows the Governing AI report and NIST AI Risk Management Framework.
