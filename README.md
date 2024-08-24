@@ -11,7 +11,9 @@ Any new application can introduce risk to your organisation, so how do you keep 
 - Azure Compute
 - Microsoft Entra
 - Azure OpenAI
-- Azure Security Products – Microsoft Purview, Microsoft Defender for AI
+- Azure Machine Learning
+- Azure Monitor
+- Azure Networking
 
 
 ## Content Owners
