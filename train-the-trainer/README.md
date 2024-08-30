@@ -15,14 +15,14 @@ Along with the video of the presentation, this document will link to all the ass
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | [Presentation](https://aka.ms/AAryr63)| Slides |
-| Narrated Presentation Video | [Video of Presentation](https://aka.ms/AAs1rwt)|
-| Demo 1 Video No Sound | [Demo 1: No Pauses & No Sound](https://aka.ms/AAs1k7t) |
-| Demo 1 Video Narrated | [Demo 1: Narrated version for your preparation](https://aka.ms/AAs1rwu) |
-| Demo 2 Video No Sound | [Demo 2: No Pauses & No Sound](https://aka.ms/AAs1zmr) |
-| Demo 2 Video Narrated | [Demo 2: Narrated version for your preparation](https://aka.ms/AAs1k7v) |
-| Demo 3 Video No Sound | [Demo 3: No Pauses & No Sound](https://aka.ms/AAs1k7s) |
-| Demo 3 Video Narrated | [Demo 3: Narrated version for your preparation](https://aka.ms/AAs1rwx) |
-| Demo 4 Video No Sound | [Demo 4: No Pauses & No Sound](https://aka.ms/AAs1rwv) |
-| Demo 4 Video Narrated | [Demo 4: Narrated version for your preparation](https://aka.ms/AAs1zmp) |
-| Demo 5 Video No Sound | [Demo 5: No Pauses & No Sound](https://aka.ms/AAs1rww) |
-| Demo 5 Video Narrated | [Demo 5: Narrated version for your preparation](https://aka.ms/AAs1k7w) |
+| Narrated Presentation Video | [Video of Presentation](https://aka.ms/AAs1rwt)| Narrated Video |
+| Demo 1 Video No Sound | [Demo 1: No Pauses & No Sound](https://aka.ms/AAs1k7t) | RBAC Demo |
+| Demo 1 Video Narrated | [Demo 1: Narrated version for your preparation](https://aka.ms/AAs1rwu) | RBAC Demo - Narrated |
+| Demo 2 Video No Sound | [Demo 2: No Pauses & No Sound](https://aka.ms/AAs1zmr) | Networking Demo |
+| Demo 2 Video Narrated | [Demo 2: Narrated version for your preparation](https://aka.ms/AAs1k7v) | Networking Demo - Narrated |
+| Demo 3 Video No Sound | [Demo 3: No Pauses & No Sound](https://aka.ms/AAs1k7s) | Monitoring Demo |
+| Demo 3 Video Narrated | [Demo 3: Narrated version for your preparation](https://aka.ms/AAs1rwx) | Monitoring Demo - Narrated |
+| Demo 4 Video No Sound | [Demo 4: No Pauses & No Sound](https://aka.ms/AAs1rwv) | Data Loss Prevention Demo |
+| Demo 4 Video Narrated | [Demo 4: Narrated version for your preparation](https://aka.ms/AAs1zmp) | Data Loss Prevention Demo - Narrated |
+| Demo 5 Video No Sound | [Demo 5: No Pauses & No Sound](https://aka.ms/AAs1rww) | Compliance Demo |
+| Demo 5 Video Narrated | [Demo 5: Narrated version for your preparation](https://aka.ms/AAs1k7w) | Compliance Demo - Narrated |
