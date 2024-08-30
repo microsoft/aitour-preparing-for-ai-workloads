@@ -16,7 +16,7 @@ Along with the video of the presentation, this document will link to all the ass
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | [Presentation](https://aka.ms/AAryr63)| Slides |
 | Narrated Presentation Video | [Video of Presentation](https://aka.ms/AAs1rwt)|
-| Demo 1 Video No Sound | [Demo 1: No Pauses & No Sound](https://aka.msAAs1k7t) |
+| Demo 1 Video No Sound | [Demo 1: No Pauses & No Sound](https://aka.ms/AAs1k7t) |
 | Demo 1 Video Narrated | [Demo 1: Narrated version for your preparation](https://aka.ms/AAs1rwu) |
 | Demo 2 Video No Sound | [Demo 2: No Pauses & No Sound](https://aka.ms/AAs1zmr) |
 | Demo 2 Video Narrated | [Demo 2: Narrated version for your preparation](https://aka.ms/AAs1k7v) |
