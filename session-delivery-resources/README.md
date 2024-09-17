@@ -18,7 +18,10 @@ Along with the videos of the presentation, this document will link to all the as
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | [Presentation](https://aka.ms/AAryr63)| Slides |
 | 45 Minute Presentation Video | [Video of Presentation](https://aka.ms/AAs3sy2)| Narrated Video |
-| Longform "Director's Cut" 1 hour 45 min Presentation Video | [Video of Presentation](https://aka.ms/AAs1rwt)| Narrated Video |
+| Longform "Director's Cut" 1 hour 45 min Presentation Video | [Part 1](https://aka.ms/AAs9ode)| Narrated Video |
+| Longform "Director's Cut" 1 hour 45 min Presentation Video | [Part 2](https://aka.ms/AAs9gzc)| Narrated Video |
+| Longform "Director's Cut" 1 hour 45 min Presentation Video | [Part 3](https://aka.ms/AAs9odd)| Narrated Video |
+| Longform "Director's Cut" 1 hour 45 min Presentation Video | [Part 4](https://aka.ms/AAs9odc)| Narrated Video |
 | Demo 1 Video No Sound | [Demo 1: No Pauses & No Sound](https://aka.ms/AAs1k7t) | RBAC Demo |
 | Demo 1 Video Narrated | [Demo 1: Narrated version for your preparation](https://aka.ms/AAs1rwu) | RBAC Demo - Narrated |
 | Demo 2 Video No Sound | [Demo 2: No Pauses & No Sound](https://aka.ms/AAs1zmr) | Networking Demo |
